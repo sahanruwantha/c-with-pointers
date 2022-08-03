@@ -1,0 +1,12 @@
+brand:sahanos:android
+os:harmony os
+os:none
+ram:2 GB
+ram:4 GB
+ram:4 GB
+cpu:2 GB
+cpu:4 GB
+cpu:4 GB
+colour:black
+colour:white
+colour:gold

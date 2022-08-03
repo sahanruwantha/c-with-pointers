@@ -1,0 +1,8 @@
+#include <iostream>
+
+class Jkl{};
+
+int main()
+{
+	
+}
